@@ -1,0 +1,9 @@
+{
+	"name": "post-it-board",
+	"version": "1.0.0",
+	"scripts": {
+		"install:all": "cd server && npm install && cd ../client && npm install",
+		"dev": "echo \"🫣 Wrong folder?: 'npm run dev' should be run in ./client directory\" && echo \"💡 Try: 'cd client && npm run dev'\" && exit 1",
+		"server": "echo \"🫣 Wrong folder?: 'npm run server' should be run in ./server directory\" && echo \"💡 Try: 'cd server && npm run server'\" && exit 1"
+	}
+}
