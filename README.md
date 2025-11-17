@@ -1,6 +1,6 @@
 # Post-it-Board App
 
-A post-it-board application with React frontend (Vite) and Node.js backend, both using TypeScript.
+A post-it-board application for posting and viewing messages built with React frontend (Vite) and Node.js backend, both using TypeScript.
 
 ## Prerequisites
 
@@ -37,7 +37,6 @@ npm run dev
 
 ## Features
 
--   View all messages posted to the system
--   Post new messages with your name
 -   Messages are stored in memory (no database required)
 -   Real-time updates when new messages are posted
+-   View all messages posted to the system
