@@ -1,5 +1,8 @@
 # Post-it-Board App
 
+<div align="left">
+  <img src="./client/public/post-it-note.svg" alt="post-it-note svg" width="80"/>
+</div>
 A post-it-board application for posting and viewing messages built with React frontend (Vite) and Node.js backend, both using TypeScript.
 
 ## Prerequisites
